@@ -20,20 +20,29 @@ Here are some ideas to get you started:
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo.svg)](https://github.com/your-username/your-repo/stargazers)
 
-## Description
+<!-- Projects -->
+## Projects
+- [Project 1](project_1_repo_url): Brief description of the project.
+- [Project 2](project_2_repo_url): Brief description of the project.
+- [Project 3](project_3_repo_url): Brief description of the project.
 
-Provide a brief description of your project here. Explain what problem it solves or what functionality it offers. Include any key features or highlights.
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
 
-## Table of Contents
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+<!-- Footer -->
+<p align="center">
+  <a href="your_website_url">Portfolio</a> •
+  <a href="mailto:your_email_address">Email</a>
+</p>
 
-## Installation
 
-Provide step-by-step instructions on how to install and set up your project. Include any dependencies or prerequisites that need to be installed.
+
+
 
 
