@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/cxrana" target="blank"><img src="https://img.shields.io/twitter/follow/cxrana?logo=twitter&style=for-the-badge" alt="cxrana" /></a> </p>
 
--  I’m currently learning **AI,Framework**
+- I’m currently learning **AI,Framework**
 
--  All of my mini projects are available at [https://codepen.io/cx-rana](https://codepen.io/cx-rana)
+- All of my mini projects are available at [https://codepen.io/cx-rana](https://codepen.io/cx-rana)
 
-- You can reach me **cxranabd@gmail.com**
+- I regularly write articles on [https://medium.com/@cxrana](https://medium.com/@cxrana)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- You Can reach me **cxranabd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
