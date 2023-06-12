@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahrana)](https://git.io/streak-stats)
 <!-- Projects -->
 ## Projects
 - [Project 1](project_1_repo_url): Brief description of the project.
